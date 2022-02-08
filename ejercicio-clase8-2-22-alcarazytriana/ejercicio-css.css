@@ -1,0 +1,25 @@
+.bloque-azul{
+    background-color:#00b7ff;
+}
+
+.bloque-rojo{
+    background-color:rgba(255, 0, 255, 0.753);
+}
+
+.bloque-naranja{
+    background-color:rgba(255, 136, 0, 0.753);
+}
+
+.bloque-cafe{
+    background-color:rgb(73, 15, 15);
+    color:white
+}
+
+.bloque-topmenu{
+    background-color:rgb(175, 39, 157)
+}
+
+.bloque-content{
+    background-color: rgb(180, 174, 174);
+    height: 120px;
+}
